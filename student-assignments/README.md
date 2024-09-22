@@ -1,6 +1,6 @@
 # Nextjs application
 
-![next.js app design](help/Group%204.png)
+![next.js app design](Group%204.png)
 
 
 ### section 5
